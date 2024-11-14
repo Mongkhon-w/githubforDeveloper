@@ -5,5 +5,5 @@
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Javascript, HTML, CSS, C, C++
 
